@@ -1,19 +1,23 @@
 ### 👋 Hi, I'm Harman
 
-🔧 Laravel Backend Developer | API Specialist | Project Manager  
+🔧 **Laravel Backend Developer | API Specialist | Project Manager**
+🧠 Passionate about building clean, scalable backend solutions focusing on API development and integration.
 
 ---
 
 💼 **Past Work**  
-- 10+ years of web development experience (Laravel, PHP, MySQL)  
-- Specialized in REST APIs, custom admin panels & 3rd party integrations  
+- Over 10+ years of experience in web development.  
+- Specialized in backend development using Laravel - REST APIs, custom admin panels & 3rd party integrations.
+- Proven track record of delivering bug-free code and managing projects efficiently.
 
 ---
 
-🔍 **Tech Stack**
-- Laravel | PHP | MySQL | REST APIs
-- Git | Postman | VSCode | Trello
-- Basic HTML/CSS/Tailwind
+🛠️ Skills & Technologies
+- **Languages:** PHP, JavaScript
+- **Frameworks:** Laravel, WordPress, Magento, Vue
+- **Databases:** MySQL
+- **Tools:** Git, Postman, Trello, VSCode
+- **Others:** REST APIs, Third-party API Integration, Project Management
 
 ---
 
