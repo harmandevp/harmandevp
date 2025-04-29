@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi, I'm [Your Name]
 
-<!--
-**harmandevp/harmandevp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Laravel Backend Developer | API Specialist | Project Manager  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 **Past Work**  
+- 10+ years of web development experience (Laravel, PHP, MySQL)  
+- Specialized in REST APIs, custom admin panels & 3rd party integrations  
+
+---
+
+🔍 **Tech Stack**
+- Laravel | PHP | MySQL | REST APIs
+- Git | Postman | VSCode | Trello
+- Basic HTML/CSS/Tailwind
+
+---
+
+📫 **Let’s Connect!**  
+[LinkedIn](https://www.linkedin.com/in/harman-singh-aa323716/) | [Email](mailto:harman.devp.com)
