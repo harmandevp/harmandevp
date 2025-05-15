@@ -1,6 +1,8 @@
 ### 👋 Hi, I'm Harman
 
+
 🔧 **Laravel Backend Developer | API Specialist | Project Manager**
+---
 🧠 Passionate about building clean, scalable backend solutions focusing on API development and integration.
 
 
